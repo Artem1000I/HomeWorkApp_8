@@ -1,4 +1,4 @@
-package lesson8.components;
+package Dz8.lesson8.components;
 
 import javax.swing.*;
 import java.awt.*;

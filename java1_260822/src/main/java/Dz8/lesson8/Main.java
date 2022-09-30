@@ -1,4 +1,4 @@
-package lesson8;
+package Dz8.lesson8;
 
 
 public class Main {
