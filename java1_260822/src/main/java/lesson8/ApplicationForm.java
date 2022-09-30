@@ -134,7 +134,6 @@ public class ApplicationForm extends JFrame {
         divide.addActionListener(buttonListener);
         panel.add(divide);
 
-
         return panel;
     }
 }

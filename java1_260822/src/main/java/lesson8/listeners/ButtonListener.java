@@ -29,6 +29,7 @@ public class ButtonListener implements ActionListener {
         } else if (s.equals("=")) {
             b = inputField.getText();
 
+
             if (a.isEmpty()) {
                 a = "0";
             }
